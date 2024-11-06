@@ -36,6 +36,9 @@
 *.txt 
 *.dat
 
+#Mathematica Notebooks
+*.nb
+
 #Folder
 complex_bessel-master/
 build/
